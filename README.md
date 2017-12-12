@@ -6,4 +6,4 @@ Previous definitions of a Discrete Hankel Transform (DHT) have focused on method
  
 The full theory can be found in The Discrete Hankel Transform: Properties and Application to the Continuous Hankel Transform, Journal of the Optical Society of America A, Vol. 32, No. 4, pp. 611-622, 2015. http://dx.doi.org/10.1364/JOSAA.32.000611  
  
-Description of this code and how to use it can be found in Chouinard U, Baddour N. (2016) Matlab code for the Discrete Hankel Transform. PeerJ Preprints 4:e2216v1 https://doi.org/10.7287/peerj.preprints.2216v1  
+Description of this code and how to use it can be found in Chouinard U, Baddour N. (2017). Matlab Code for the Discrete Hankel Transform. Journal of Open Research Software. 5(1), p.4. DOI: http://doi.org/10.5334/jors.82 
