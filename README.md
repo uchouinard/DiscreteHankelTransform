@@ -15,4 +15,4 @@ The modifications:
 1. The Y matrix code is now vectorized making it ~ x20 faster. 
 2. The code has an optional zero padding input similar to Matlab's fft functionality.
 3. The code supports also arrays not only vectors similar to Matlab's fft functionality, meaning that the Bessel zeros and Y matrix are only calculated once per run
-The new code can be found here:   https://github.com/adinatan/Discrete-Hankel-Transform
+The new code is posted here as DHT.m and can be found on Adi's github:   https://github.com/adinatan/Discrete-Hankel-Transform
